@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I thing I'am funny**
 
-- [Alt text](https://studiorenegade.fr/))
 
 
 <h3 align="left">Connect with me:</h3>
