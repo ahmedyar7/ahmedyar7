@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋 I'am Ahmed</h1>
 
-###
 
-<p align="left">My name is Ahmed Yar and I'am from Pakistan</p>
-
-###
 
 <h2 align="center">📝About me</h2>
 
