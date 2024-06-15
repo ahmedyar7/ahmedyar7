@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Computer Science Student<br>✨ Creating bugs since 2023<br>📚 Currently learning OOPs in C++ and web Automation in python🐍<br>🎯 Goals: AL & ML</p>
+<p align="left">👨‍🎓 Computer Science Student<br>✨ Creating bugs since 2023<br>📚 Data Science 📈📊 and AI 🤖 In Python 🐍<br>🎯 Goals: AL & ML</p>
 
 ###
 
