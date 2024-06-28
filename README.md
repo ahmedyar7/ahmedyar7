@@ -8,6 +8,8 @@
 
 ###
 
+##
+
 <h2 align="center">My Tech Stack ✏</h2>
 
 ###
@@ -38,6 +40,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
 </div>
+
+###
+
+##
+
+<h2 align="center">GitHub Stats 📊</h2>
+
+###
 
 ###
 
