@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'am Ahmed</h1>
 
-<h2 align="center">📝About me</h2>
+<h1 align="center">📝About me</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ##
 
-<h2 align="center">My Tech Stack ✏</h2>
+<h1 align="center">My Tech Stack ✏</h1>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ##
 
-<h2 align="center">GitHub Stats 📊</h2>
+<h1 align="center">GitHub Stats 📊</h1>
 
 ###
 
