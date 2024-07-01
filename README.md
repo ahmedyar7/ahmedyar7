@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img src="img/1200px-Matplotlib_icon.svg.png" height="50" style="margin: 0 6px;" />
   <img src="img/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.png" height="69" style="margin: 0 6px;" />
-  <img src="img/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="69" style="margin: 0 6px;" />
+  <img src="img/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="60" style="margin: 0 6px;" />
 </div>
 
 ###
