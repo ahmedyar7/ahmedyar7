@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <a href='python.org'>
+  <a href='https://python.org'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
     <img width="12" />
   </a>
@@ -43,7 +43,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
     <img width="12" />
   </a>
-  <a href='numpy.org'>
+  <a href='https://numpy.org'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
     <img width="12" />
   </a>
@@ -55,7 +55,7 @@
     <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
     <img width="12" />
   </a>
-  <a href='github.com/ahmedyar7'>
+  <a href='https://github.com/ahmedyar7'>
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
     <img width="12" />
   </a>
@@ -65,7 +65,7 @@
   <a href='https://matplotlib.org/stable/'>
     <img src="img/matplotlib.png" height="50" style="margin: 0 6px;" />
   </a>
-  <a href='plotly.com'>
+  <a href='https://plotly.com'>
     <img src="img/plotly.png" height="69" style="margin: 0 6px;" />
   </a>
   <a href='https://seaborn.pydata.org/'>
@@ -93,16 +93,16 @@
 <br clear="both">
 
 <div align="center">
-  <a href='github.com/ahmedyar7'>
+  <a href='https://github.com/ahmedyar7'>
     <img src="https://streak-stats.demolab.com?user=ahmedyar7&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   </a>
-  <a href='github.com/ahmedyar7'>
+  <a href='https://github.com/ahmedyar7'>
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedyar7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   </a>
   <a href="https://github.com/ahmedyar7">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyar7&hide_border=true&layout=pie&theme=github_dark" alt="Top Langs"  style="border: none; outline: none;">
   </a>
-  <a href='github.com/ahmedyar7'>
+  <a href='https://github.com/ahmedyar7'>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedyar7&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
     <div align="center">
   </a>
