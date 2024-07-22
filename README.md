@@ -1,13 +1,13 @@
-<h1 align="center">Hey 👋 I'am Ahmed</h1>
+<h1 Hey 👋 I'am Ahmed</h1>
 
 <h1 align="center">📝About me</h1>
 
 ###
 
-- 👨‍🎓 **Computer Science** Student At NUST
-- ✨ **Creating bugs** since 2023
-- 📚 **Currently learning** Machine Learning Alogoritms and Models
-- 🎯 **Goals:** AI, Machine Learing and Computer Vision
+- 👨‍🎓 `Computer Science` Student At <a href='https://nust.edu.pk/' > NUST </a>
+- ✨ `Creating bugs` since 2023
+- 📚 `Currently learning` Machine Learning Alogoritms and Models
+- 🎯 `Goals:` AI, Machine Learing and Computer Vision
 
 ###
 
