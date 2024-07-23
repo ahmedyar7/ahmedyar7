@@ -24,16 +24,13 @@
 
 <div align="center">
     <a href='https://python.org' style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-        <img width="12" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
     </a>
     <a href='https://cplusplus.com/' style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-        <img width="12" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
     </a>
     <a href='https://mysql.com/' style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-        <img width="12" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
     </a>
     <a href='https://jupyter.org/' style="text-decoration: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
@@ -56,7 +53,7 @@
         <img width="12" />
     </a>
     <a href='https://github.com/ahmedyar7' style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
         <img width="12" />
     </a>
     <a href='https://www.markdownguide.org/' style="text-decoration: none;">
@@ -100,11 +97,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedyar7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   </a>
   <a href="https://github.com/ahmedyar7" style="text-decoration: none;" >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyar7&hide_border=true&layout=pie&theme=github_dark" alt="Top Langs"  style="border: none; outline: none;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyar7&hide_border=true&layout=donut-vertical&theme=github_dark" alt="Top Langs"  style="border: none; outline: none;">
   </a>
   <a href='https://github.com/ahmedyar7' style="text-decoration: none;" >
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedyar7&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-    <div align="center">
   </a>
 
 </div>
