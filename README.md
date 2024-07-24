@@ -90,14 +90,14 @@
 <br clear="both">
 
 <div align="center">
-  <a href='https://github.com/ahmedyar7' style="text-decoration: none;">
-    <img src="https://streak-stats.demolab.com?user=ahmedyar7&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://github.com/ahmedyar7" style="text-decoration: none;" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyar7&hide_border=true&layout=donut&theme=github_dark" alt="Top Langs"  style="border: none; outline: none;">
   </a>
   <a href='https://github.com/ahmedyar7' style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedyar7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   </a>
-  <a href="https://github.com/ahmedyar7" style="text-decoration: none;" >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyar7&hide_border=true&layout=donut-vertical&theme=github_dark" alt="Top Langs"  style="border: none; outline: none;">
+  <a href='https://github.com/ahmedyar7' style="text-decoration: none;">
+    <img src="https://streak-stats.demolab.com?user=ahmedyar7&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="270" alt="streak graph"  />
   </a>
   <a href='https://github.com/ahmedyar7' style="text-decoration: none;" >
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedyar7&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
