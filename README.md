@@ -100,7 +100,12 @@
     <img src="https://streak-stats.demolab.com?user=ahmedyar7&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
   </a>
   <a href='https://github.com/ahmedyar7' style="text-decoration: none;" >
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedyar7&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+    <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedyar7&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&point=cf1717" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
   </a>
 
 </div>
