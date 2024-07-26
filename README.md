@@ -68,6 +68,8 @@
     <a href='https://seaborn.pydata.org/' style="text-decoration: none;">
         <img src="img/seaborn.png" height="60" style="margin: 0 6px;" />
     </a>
+    <a href='https://scikit-learn.org/1.5/index.html' style="text-decoration: none;">  <img src="img/scikitlearn.png" height="60" style="margin: 0 6px;" />
+    </a>
 </div>
 
 ###
