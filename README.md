@@ -70,6 +70,11 @@
     </a>
     <a href='https://scikit-learn.org/1.5/index.html' style="text-decoration: none;">  <img src="img/scikitlearn.png" height="60" style="margin: 0 6px;" />
     </a>
+    <a href='https://www.tensorflow.org/' style="text-decoration: none;">     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" style="margin: 0 10px;" />
+    </a>
+    <a href='https://keras.io/' style="text-decoration: none;">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="40" alt="keras logo" style="margin: 0 10px;" />
+    </a>
+    
 </div>
 
 ###
