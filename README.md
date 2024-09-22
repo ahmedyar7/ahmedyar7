@@ -6,8 +6,8 @@
 
 - 👨‍🎓 `Computer Science` Student At <a href='https://nust.edu.pk/' > NUST </a>
 - ✨ `Creating bugs` since 2023
-- 📚 `Currently learning` Machine Learning Alogoritms and Models
-- 🎯 `Goals:` AI, Machine Learing and Computer Vision
+- 📚 `Currently learning` Data Structures & Algorithms, Computer Vision
+- 🎯 `Goals:` AI, Machine Learing & Computer Vision
 
 ###
 
