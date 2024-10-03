@@ -2,6 +2,10 @@
 
 <h1 align="center">📝About me</h1>
 
+<div align='center'>
+    <img src='https://readme-typing-svg.demolab.com?font=Monolisa&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Computer+Science+Student'>
+</div>
+
 ###
 
 - 👨‍🎓 `Computer Science` Student At <a href='https://nust.edu.pk/' > NUST </a>
@@ -125,6 +129,12 @@
                 <a href='https://keras.io/' style="text-decoration: none;">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" alt="keras logo" style="margin: 0 10px;" />
                     <br>Keras
+                </a>
+            </td>
+            <td align="center" width="150">
+                <a href='https://keras.io/' style="text-decoration: none;">
+                    <img src="img/UbuntuCoF.svg.png" height="60" alt="keras logo" style="margin: 0 10px;" />
+                    <br>Ubuntu
                 </a>
             </td>
         </tr>
