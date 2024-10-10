@@ -1,9 +1,7 @@
-<h1 Hey 👋 I'am Ahmed</h1>
-
 <h1 align="center">📝About me</h1>
 
 <div align='center'>
-    <img src='https://readme-typing-svg.demolab.com?font=Monolisa&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Computer+Science+Student'>
+<img src="https://readme-typing-svg.demolab.com?font=Monolisa&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Hey!+I'am+Ahmed+Yar;Computer+Science+Student" alt="Typing SVG" /></a>
 </div>
 
 ###
