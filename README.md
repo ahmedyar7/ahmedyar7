@@ -133,9 +133,9 @@
 
 ##
 
-<h1 align="center">GitHub Stats <img src="img/github analytics.gif" height=50> </h1>
+<!-- <h1 align="center">GitHub Stats <img src="img/github analytics.gif" height=50> </h1> -->
 
-###
+<!-- ###
 
 ###
 
@@ -146,8 +146,8 @@
 
 ###
 
-<br clear="both">
-
+<br clear="both"> -->
+<!--
 <div align="center">
     <table>
         <tr>
@@ -177,13 +177,13 @@
             </td>
         </tr>
     </table>
-</div>
+</div> -->
 
 ###
 
-  </a>
+  <!-- </a> -->
 
-</div>
+<!-- </div> -->
 
 ###
 
