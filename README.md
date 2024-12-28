@@ -1,17 +1,20 @@
-<h1 align="center" > <img src="img/icons8-about-me-50.png"> About me  </h1>
+# 👋 Hi there! I'm Ahmed Yar
 
-<div align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Monolisa&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Hey!+I'am+Ahmed+Yar;Computer+Science+Student" alt="Typing SVG" /></a>
-</div>
+🎓 **Student of Computer Science** at **NUST**  
+💡 Passionate about **Python**, **Data Structures**, **Artificial Intelligence**, and **Cryptography**
 
-###
+Welcome to my GitHub! Here, you’ll find a collection of projects and experiments as I explore the exciting world of technology. I enjoy solving challenging problems, learning new concepts, and applying them to create impactful solutions.
 
-- 👨‍🎓 `Computer Science` Student At <a href='https://nust.edu.pk/' > NUST </a>
-- ✨ `Creating bugs` since 2023
-- 📚 `Currently learning` Data Structures & Algorithms, Computer Vision
-- 🎯 `Goals:` AI, Machine Learing & Computer Vision
+> ### 🌱 What I’m Learning:
 
-###
+- Mastering advanced **data structures** and algorithms.
+- Diving deeper into the fascinating world of **AI** and machine learning.
+- Exploring the secrets behind secure communication in **cryptography**.
+- Experimenting with **Python** frameworks and tools to build innovative applications.
+
+> ### 📫 Let's Connect:
+
+[LinkedIn](https://linkedin.com/in/ahmedyar7)
 
 ##
 
@@ -27,7 +30,7 @@
 <div align="center">
     <table width="900">
         <tr>
-            <td align="center" width="90">
+            <td align="center" width="90">x
                     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="50" style="margin: 0 10px;" />
                     <br>
                 </a>
@@ -133,8 +136,8 @@
 
 ##
 
-<!-- <h1 align="center">GitHub Stats <img src="img/github analytics.gif" height=50> </h1> -->
-
+<h1 align="center">GitHub Stats <img src="img/github analytics.gif" height=50> </h1> -->
+<!-- 
 <!-- ###
 
 ###
@@ -147,7 +150,7 @@
 ###
 
 <br clear="both"> -->
-<!--
+
 <div align="center">
     <table>
         <tr>
@@ -181,9 +184,9 @@
 
 ###
 
-  <!-- </a> -->
+  </a>
 
-<!-- </div> -->
+</div>
 
 ###
 
