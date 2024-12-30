@@ -12,10 +12,6 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 - Exploring the secrets behind secure communication in **cryptography**.
 - Experimenting with **Python** frameworks and tools to build innovative applications.
 
-> ### 📫 Let's Connect:
-
-[LinkedIn](https://linkedin.com/in/ahmedyar7)
-
 ##
 
 <h1 align="center">My Tech Stack <img src="img/favtech.gif" height=35> </h1>
