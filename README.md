@@ -26,7 +26,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 <div align="center">
     <table width="900">
         <tr>
-            <td align="center" width="90">x
+            <td align="center" width="90">
                     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="50" style="margin: 0 10px;" />
                     <br>
                 </a>
