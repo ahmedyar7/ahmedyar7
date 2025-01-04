@@ -12,10 +12,6 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 - Exploring the secrets behind secure communication in **cryptography**.
 - Experimenting with **Python** frameworks and tools to build innovative applications.
 
-> ### 📫 Let's Connect:
-
-[LinkedIn](https://linkedin.com/in/ahmedyar7)
-
 ##
 
 <h1 align="center">My Tech Stack <img src="img/favtech.gif" height=35> </h1>
@@ -30,7 +26,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 <div align="center">
     <table width="900">
         <tr>
-            <td align="center" width="90">x
+            <td align="center" width="90">
                     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="50" style="margin: 0 10px;" />
                     <br>
                 </a>
