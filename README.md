@@ -136,9 +136,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 
 ##
 
-<h1 align="center">GitHub Stats <img src="img/github analytics.gif" height=50> </h1> -->
-<!-- 
-<!-- ###
+<h1 align="center">GitHub Stats <img src="img/github analytics.gif" height=50> </h1>
 
 ###
 
@@ -149,7 +147,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 
 ###
 
-<br clear="both"> -->
+<br clear="both">
 
 <div align="center">
     <table>
@@ -180,7 +178,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
             </td>
         </tr>
     </table>
-</div> -->
+</div>
 
 ###
 
