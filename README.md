@@ -124,6 +124,11 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
                     <br>
                 </a>
             </td>
+            <td align="center" width="90">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="flask logo" style="margin: 0 10px;" />
+                    <br>
+                </a>
+            </td>
         </tr>
     </table>
 </div>
@@ -132,20 +137,21 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 
 ##
 
+<!--
 <h1 align="center">GitHub Stats <img src="img/github analytics.gif" height=50> </h1>
 
 ###
 
 <div align="left">
-</div>
+</div> -->
 
-###
+<!-- ###
 
-###
+### -->
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
-<div align="center">
+<!-- <div align="center">
     <table>
         <tr>
             <td align="center">
@@ -174,9 +180,9 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
             </td>
         </tr>
     </table>
-</div>
+</div> -->
 
-###
+<!-- ###
 
   </a>
 
@@ -186,4 +192,4 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 
 </div>
 
-###
+### -->
