@@ -1,25 +1,34 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 18 1 * *" # Runs at 18:00 UTC on the 1st of every month
+  workflow_dispatch: # Allows manual execution
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: Generate GitHub Profile 3D Contributions
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      - name: Commit & Push Changes
+        env:
+          GIT_TOKEN: ${{ secrets.GH_PAT }} # Use Personal Access Token
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "Ahmed Yar"
+          git config user.email "ahmedyar7@users.noreply.github.com"
           git add -A .
-          if git commit -m "generated"; then
-            git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Updated 3D Profile Contribution Graph"
+            git push https://ahmedyar7:${GIT_TOKEN}@github.com/ahmedyar7/ahmedyar7.git
           fi
