@@ -11,10 +11,6 @@ jobs:
     name: Generate 3D Profile SVGs
     steps:
       - uses: actions/checkout@v4
-      - uses: ./
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ahmedyar7
 
       - name: Commit & Push
         run: |
