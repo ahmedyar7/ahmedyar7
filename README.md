@@ -143,9 +143,9 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 
 ###
 
-<!-- <br clear="both"> -->
+<br clear="both">
 
-<!-- <div align="center">
+<div align="center">
     <table>
         <tr>
             <td align="center">
