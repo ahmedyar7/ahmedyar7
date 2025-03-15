@@ -1,21 +1,26 @@
-name: Auto Contributions
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 8 1 * *" # Runs on the 1st day of every month at 08:00 UTC
+    - cron: "0 18 1 * *" # Runs on the 1st of every month at 18:00 UTC
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    name: Generate 3D Profile SVGs
+    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          USERNAME: ahmedyar7 # Explicitly using your GitHub username
 
       - name: Commit & Push
         run: |
           git config user.name "Ahmed Yar"
           git config user.email "ahmedyar7@users.noreply.github.com"
-          git add .
-          git commit -m "Updated 3D Profile SVGs."
+          git add -A .
+          git commit -m "Updated 3D Profile Contribution Graph"
           git push
