@@ -1,17 +1,30 @@
 name: Auto Contributions
 
 on:
-  schedule:
-    - cron: "0 8 * * *" # Adjust the time as per your preference.
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Run your action
+      uses: ./path-to-your-action
+
   generate:
     runs-on: ubuntu-latest
     name: Generate 3D Profile SVGs
     steps:
-      - uses: actions/checkout@v4
-      - uses: ./
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run local action
+        uses: ./
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
