@@ -1,136 +1,117 @@
 # 👋 Hi there! I'm Ahmed Yar
 
-🎓 **Student of Computer Science** at **NUST**  
-💡 Passionate about **Python**, **Data Structures**, **Artificial Intelligence**, and **Cryptography**
+🎓 **Computer Science Student** at **NUST**  
+💡 Passionate about **Python**, **Data Structures**, **Artificial Intelligence**, **Cryptography**, and **Software Development**
 
-Welcome to my GitHub! Here, you’ll find a collection of projects and experiments as I explore the exciting world of technology. I enjoy solving challenging problems, learning new concepts, and applying them to create impactful solutions.
+Welcome to my GitHub! Here, you’ll find a collection of projects and experiments as I explore the exciting world of technology. I love **solving challenging problems**, optimizing algorithms, and building **scalable** applications.
 
-> ### 🌱 What I’m Learning:
+---
 
-- Mastering advanced **data structures** and algorithms.
-- Diving deeper into the fascinating world of **AI** and machine learning.
-- Exploring the secrets behind secure communication in **cryptography**.
-- Experimenting with **Python** frameworks and tools to build innovative applications.
+## 🌱 **What I’m Learning & Exploring:**
 
-##
+🔹 **Advanced Data Structures & Algorithms** – Optimizing solutions for performance & scalability.  
+🔹 **Machine Learning & AI** – Leveraging **TensorFlow, Keras, Scikit-Learn, Pandas**, and **NumPy** for predictive modeling.  
+🔹 **Cryptography & Security** – Implementing secure protocols and encryption techniques.  
+🔹 **Full-Stack Development** – Building applications using **Python, C++, MySQL, Flask**, and **JavaScript**.  
+🔹 **Data Visualization & Analytics** – Creating insightful visualizations with **Matplotlib, Seaborn, and Plotly**.  
+🔹 **Automation & Scripting** – Using **Selenium & Git** for task automation and version control.
 
-<h1 align="center">My Tech Stack <img src="img/favtech.gif" height=35> </h1>
+---
 
-###
+## 🚀 **Tech Stack:**
 
-<div align="left">
-</div>
+💻 **Languages & Frameworks**: Python, C++, JavaScript, Flutter  
+📊 **Data Science & AI**: NumPy, Pandas, Scikit-Learn, TensorFlow, Keras  
+🎨 **Frontend & UI**: HTML5, CSS3, JavaScript, Flutter  
+🛠 **Tools & Platforms**: Git, GitHub, Selenium, Jupyter Notebook, Ubuntu  
+📈 **Data Visualization**: Matplotlib, Plotly, Seaborn
 
-###
+---
+
+Let’s **collaborate** and create something amazing! Feel free to explore my repositories, contribute, or connect with me. 🚀
+
+---
+
+<h1 align="center">My Tech Stack <img src="img/favtech.gif" height="35"></h1>
 
 <div align="center">
     <table width="900">
         <tr>
             <td align="center" width="90">
-                    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="50" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" height="50" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="50" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.simpleicons.org/selenium/43B02A" height="50" alt="selenium logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="50" />
             </td>
             <td align="center" width="90">
-                <a href='https://github.com/ahmedyar7' style="text-decoration: none;">
-                    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" height="50" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://skillicons.dev/icons?i=md" alt="Markdown" height="50" />
             </td>
         </tr>
         <tr>
             <td align="center" width="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="matplotlib logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="50" alt="plotly logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="img/seaborn.png" height="50" alt="seaborn logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="img/seaborn.png" alt="Seaborn" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="scikit-learn logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" alt="keras logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="img/UbuntuCoF.svg.png" height="60" alt="ubuntu logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="img/UbuntuCoF.svg.png" alt="Ubuntu" height="60" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="django logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" />
             </td>
             <td align="center" width="90">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="flask logo" style="margin: 0 10px;" />
-                    <br>
-                </a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" />
+            </td>
+            <td align="center" width="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="90">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" height="50" />
+            </td>
+            <td align="center" colspan="9"> <!-- Centered empty space -->
+                <p> </p>
             </td>
         </tr>
     </table>
 </div>
 
-###
-
-##
+---
 
 <h1 align="center">GitHub Stats <img src="img/github analytics.gif" height=50> </h1>
 
@@ -159,17 +140,12 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
                 </a>
             </td>
         </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <a href="https://github.com/ahmedyar7" style="text-decoration: none;">
+                    <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
+                </a>
+            </td>
+        </tr>
     </table>
 </div>
-
-###
-
-  </a>
-
-</div>
-
-###
-
-</div>
-
-###
