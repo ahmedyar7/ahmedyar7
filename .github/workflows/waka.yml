@@ -16,4 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           BRANCH: "master"  # or "main" depending on your repo's default branch
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
-          STATS_RANGE: "last_7_days"
+          STATS_RANGE: "last_30_days"
