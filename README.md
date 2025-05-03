@@ -119,6 +119,9 @@ Let’s **collaborate** and create something amazing! Feel free to explore my re
             <td align="center" width="90">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"alt="Dart" height="50" />
             </td>
+            <td align="center" width="90">
+                <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"alt="Dart" height="50" />
+            </td>
             <td align="center" colspan="9"> <!-- Centered empty space -->
                 <p> </p>
             </td>
@@ -143,7 +146,7 @@ Let’s **collaborate** and create something amazing! Feel free to explore my re
 
 <div align="center">
     <table>
-        <!-- <tr>
+        <tr>
              <td align="center">
                 <a href="https://github.com/ahmedyar7" style="text-decoration: none;">
                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyar7&hide_border=true&layout=donut&theme=github_dark" alt="Top Langs" style="border: none; outline: none;">
@@ -154,7 +157,7 @@ Let’s **collaborate** and create something amazing! Feel free to explore my re
                     <img src="https://github-readme-stats.vercel.app/api?username=ahmedyar7&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" alt="GitHub Stats" />
                 </a>
             </td> 
-        <!-- </tr>  -->
+         </tr> 
         <tr>
             <td colspan="2" align="center">
                 <a href="https://github.com/ahmedyar7" style="text-decoration: none;">
