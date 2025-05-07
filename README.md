@@ -122,6 +122,9 @@ Let’s **collaborate** and create something amazing! Feel free to explore my re
             <td align="center" width="90">
                 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"alt="Dart" height="50" />
             </td>
+            <td align="center" width="90">
+                <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="Dart" height="50" />
+            </td>
             <td align="center" colspan="9"> <!-- Centered empty space -->
                 <p> </p>
             </td>
