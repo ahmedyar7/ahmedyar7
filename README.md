@@ -56,7 +56,7 @@ Let’s **collaborate** and create something amazing! Feel free to explore my re
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="50" />
             </td>
             <td align="center" width="90">
-                <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" height="50" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"alt="Selenium" height="50" />
             </td>
             <td align="center" width="90">
                 <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="50" />
@@ -124,6 +124,9 @@ Let’s **collaborate** and create something amazing! Feel free to explore my re
             </td>
             <td align="center" width="90">
                 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="Dart" height="50" />
+            </td>
+            <td align="center" width="90">
+                <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Dart" height="50" />
             </td>
             <td align="center" colspan="9"> <!-- Centered empty space -->
                 <p> </p>
