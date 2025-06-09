@@ -126,7 +126,7 @@ Let’s **collaborate** and create something amazing! Feel free to explore my re
                 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="Dart" height="50" />
             </td>
             <td align="center" width="90">
-                <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Dart" height="50" />
+                <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Dart" height="50" />
             </td>
             <td align="center" colspan="9"> <!-- Centered empty space -->
                 <p> </p>
@@ -167,7 +167,7 @@ Let’s **collaborate** and create something amazing! Feel free to explore my re
         <tr>
             <td colspan="2" align="center">
                 <a href="https://github.com/ahmedyar7" style="text-decoration: none;">
-                    <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
+                    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" />
                 </a>
             </td>
         </tr>
