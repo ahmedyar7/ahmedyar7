@@ -28,6 +28,11 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 
 ---
 
+## 🛠️ Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- END_SECTION:activity -->
+
 Let’s **collaborate** and create something amazing! Feel free to explore my repositories, contribute, or connect with me. 🚀
 
 ---
