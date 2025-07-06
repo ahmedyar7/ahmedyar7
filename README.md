@@ -28,7 +28,6 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 
 ---
 
-<h1 align="center">My Tech Stack <img src="img/favtech.gif" height="35"></h1>
 
 <h3 align="center"> Programming Languages </h3>
 
@@ -70,7 +69,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 
 ---
 
-<h1 align="center">GitHub Stats <img src="img/github analytics.gif" height=50> </h1>
+<h2 align="center">GitHub Stats</h2>
 
 ###
 
