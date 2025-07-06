@@ -28,117 +28,45 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 
 ---
 
-## 🛠️ Recent Activity
+<h1 align="center">My Tech Stack <img src="img/favtech.gif" height="35"></h1>
 
-<!--START_SECTION:activity-->
-<!-- END_SECTION:activity -->
+<h3 align="center"> Programming Languages </h3>
 
-Let’s **collaborate** and create something amazing! Feel free to explore my repositories, contribute, or connect with me. 🚀
+| ![Python](https://techstack-generator.vercel.app/python-icon.svg) | ![C++](https://techstack-generator.vercel.app/cpp-icon.svg) | ![JavaScript](https://techstack-generator.vercel.app/js-icon.svg) | ![TypeScript](https://techstack-generator.vercel.app/ts-icon.svg) | ![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg) | ![Markdown](https://skillicons.dev/icons?i=md) |
+| :---------------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------: |
+|                              Python                               |                             C++                             |                            JavaScript                             |                            TypeScript                             |                                           Dart                                            |                    Markdown                    |
 
 ---
 
-<h1 align="center">My Tech Stack <img src="img/favtech.gif" height="35"></h1>
+<h3 align="center"> 🌐 Web & App Developments <h3 align="center">  </h3> </h3>
 
-<div align="center">
-    <table width="900">
-        <tr>
-            <td align="center" width="90">
-                <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"alt="Selenium" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://skillicons.dev/icons?i=md" alt="Markdown" height="50" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="img/seaborn.png" alt="Seaborn" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="60" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="50" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="Dart" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Dart" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="Dart" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"alt="Dart" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"alt="Dart" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="Dart" height="50" />
-            </td>
-            <td align="center" width="90">
-                <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Dart" height="50" />
-            </td>
-            <td align="center" colspan="9"> <!-- Centered empty space -->
-                <p> </p>
-            </td>
-        </tr>
-    </table>
-</div>
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![React](https://techstack-generator.vercel.app/react-icon.svg) | ![Redux](https://techstack-generator.vercel.app/redux-icon.svg) | ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg) | ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg) |
+| :-----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+|                                         HTML5                                         |                                        CSS3                                        |                              React                              |                              Redux                              |                                                  TailwindCSS                                                   |                                              Flutter                                               |
+
+---
+
+<h3 align="center"> 📊 Data Science & Machine Learning </h3>
+
+| ![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg) | ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) | ![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg) | ![Scikit-learn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg) | ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) | ![Keras](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg) |
+| :-----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+|                                         NumPy                                         |                                          Pandas                                          |                                              Matplotlib                                              |                                               Scikit-learn                                               |                                              TensorFlow                                              |                                         Keras                                         |
+
+---
+
+<h3 align="center">📁 Databases </h3>
+
+| ![MySQL](https://techstack-generator.vercel.app/mysql-icon.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg) | ![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg) | ![Neo4j](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg) |
+| :-------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+|                              MySQL                              |                                                   MongoDB                                                   |                                            Redis                                             |                                            Neo4j                                             |
+
+---
+
+<h3 align="center"> Tools and Platform </h3>
+
+| ![Git](https://cdn.simpleicons.org/git/F05032) | ![GitHub](https://techstack-generator.vercel.app/github-icon.svg) | ![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg) | ![Selenium](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg) | ![REST](https://techstack-generator.vercel.app/restapi-icon.svg) |
+| :--------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
+|                      Git                       |                              GitHub                               |                                             Ubuntu                                              |                                               Selenium                                                |                            REST APIs                             |
 
 ---
 
