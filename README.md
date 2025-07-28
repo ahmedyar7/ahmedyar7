@@ -217,6 +217,18 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 <div align="center">
     <table>
         <tr>
+             <td align="center">
+                <a href="https://github.com/ahmedyar7" style="text-decoration: none;">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyar7&hide_border=true&layout=donut&theme=github_dark" alt="Top Langs" style="border: none; outline: none;">
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ahmedyar7" style="text-decoration: none;">
+                    <img src="https://github-readme-stats.vercel.app/api?username=ahmedyar7&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" alt="GitHub Stats" />
+                </a>
+            </td> 
+         </tr> 
+        <tr>
             <td colspan="2" align="center">
                 <a href="https://github.com/ahmedyar7" style="text-decoration: none;">
                     <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" />
