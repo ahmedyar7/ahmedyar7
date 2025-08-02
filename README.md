@@ -104,6 +104,10 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" alt="FireBase"/>
       <br/>Express
     </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="50" alt="FireBase"/>
+      <br/>zustand
+    </td>
   </tr>
 </table>
 
@@ -162,6 +166,10 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="50"/><br/>
       Neo4j
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Neo4j" width="50"/><br/>
+      PostgreSQL
+    </td>
   </tr>
 </table>
 
@@ -181,8 +189,8 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
       GitHub
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50"/><br/>
-      Ubuntu
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  alt="Ubuntu" width="50"/><br/>
+      Linux
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="50"/><br/>
@@ -195,6 +203,10 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50"/><br/>
       NPM
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="NPM" width="50"/><br/>
+      Postman
     </td>
   </tr>
 </table>
