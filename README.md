@@ -16,184 +16,69 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 🔹 **Data Visualization & Analytics** – Creating insightful visualizations with **Matplotlib, Seaborn, and Plotly**.  
 🔹 **Automation & Scripting** – Using **Selenium & Git** for task automation and version control.
 
-<h3 align="center"> Programming Languages </h3>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50"/><br/>
-     Python
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50"/><br/>
-     C++
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50"/><br/>
-     JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50"/><br/>
-     NodeJS
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50"/><br/>
-     TypeScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="50"/><br/>
-     Dart
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="50"/><br/>
-     Markdown
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center"> 🌐 Web & App Developments <h3 align="center">  </h3> </h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-      <br/>HTML5
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-      <br/>CSS3
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" alt="React"/>
-      <br/>React
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" alt="Redux"/>
-      <br/>Redux
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="TailwindCSS"/>
-      <br/>TailwindCSS
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" alt="Flutter"/>
-      <br/>Flutter
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="50" alt="Vite"/>
-      <br/>Vite
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" alt="FireBase"/>
-      <br/>FireBase
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" alt="FireBase"/>
-      <br/>Express
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="50" alt="FireBase"/>
-      <br/>zustand
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center"> 📊 Data Science & Machine Learning </h3>
+### ⚙️ Tech Stack
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50"/><br/>
-      NumPy
+    <td>
+    <strong>Programming Languages</strong>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50"/><br/>
-      Pandas
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50"/><br/>
-      Matplotlib
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50"/><br/>
-      Scikit-learn
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50"/><br/>
-      TensorFlow
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50"/><br/>
-      Keras
+    <td>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
     </td>
   </tr>
-</table>
-
----
-
-<h3 align="center">📁 Databases </h3>
-
-<table>
   <tr>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50"/><br/>
-      MySQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50"/><br/>
-      MongoDB
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="50"/><br/>
-      Redis
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="50"/><br/>
-      Neo4j
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Neo4j" width="50"/><br/>
-      PostgreSQL
+    <td><strong>🌐 Web & App Developments</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&for-the-badge&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Zustand-000000?style=flat&for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
     </td>
   </tr>
-</table>
-
----
-
-<h3 align="center"> Tools and Platform </h3>
-
-<table>
   <tr>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="50"/><br/>
-      Git
+    <td><strong>📊 Data Science & Machine Learning</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Numpy-013243?style=flat&for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?flat&=flat&for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&for-the-badge&logo=keras&logoColor=white" alt="Keras" />
     </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50"/><br/>
-      GitHub
+  </tr>
+  <tr>
+    <td><strong>📁 Databases</strong></td>
+    <td>
+     <img src="https://img.shields.io/badge/MySQL-4479A1?styleflat&=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Neo4j-458BCA?style=flat&for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  alt="Ubuntu" width="50"/><br/>
-      Linux
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="50"/><br/>
-      Selenium
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" width="50"/><br/>
-      REST
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50"/><br/>
-      NPM
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="NPM" width="50"/><br/>
-      Postman
+  </tr>
+  <tr>
+    <td><strong>Tools and Platform</strong></td>
+    <td>
+<img src="https://img.shields.io/badge/Git-F05032?styleflat&=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat&for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/REST-000000?style=flat&for-the-badge&logo=rest-api&logoColor=white" alt="REST" />
+<img src="https://img.shields.io/badge/NPM-CB3837?style=flat&for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     </td>
   </tr>
 </table>
