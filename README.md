@@ -16,18 +16,6 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 🔹 **Data Visualization & Analytics** – Creating insightful visualizations with **Matplotlib, Seaborn, and Plotly**.  
 🔹 **Automation & Scripting** – Using **Selenium & Git** for task automation and version control.
 
----
-
-## 🚀 **Tech Stack:**
-
-💻 **Languages & Frameworks**: Python, C++, JavaScript, Flutter  
-📊 **Data Science & AI**: NumPy, Pandas, Scikit-Learn, TensorFlow, Keras  
-🎨 **Frontend & UI**: HTML5, CSS3, JavaScript, Flutter  
-🛠 **Tools & Platforms**: Git, GitHub, Selenium, Jupyter Notebook, Ubuntu  
-📈 **Data Visualization**: Matplotlib, Plotly, Seaborn
-
----
-
 <h3 align="center"> Programming Languages </h3>
 <table>
   <tr>
@@ -173,7 +161,6 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
   </tr>
 </table>
 
-
 ---
 
 <h3 align="center"> Tools and Platform </h3>
@@ -210,42 +197,3 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">GitHub Stats</h2>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-###
-
-<br clear="both">
-
-<div align="center">
-    <table>
-        <tr>
-             <td align="center">
-                <a href="https://github.com/ahmedyar7" style="text-decoration: none;">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyar7&hide_border=true&layout=donut&theme=github_dark" alt="Top Langs" style="border: none; outline: none;">
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/ahmedyar7" style="text-decoration: none;">
-                    <img src="https://github-readme-stats.vercel.app/api?username=ahmedyar7&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" alt="GitHub Stats" />
-                </a>
-            </td> 
-         </tr> 
-        <tr>
-            <td colspan="2" align="center">
-                <a href="https://github.com/ahmedyar7" style="text-decoration: none;">
-                    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" />
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
