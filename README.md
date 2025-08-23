@@ -21,13 +21,13 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 ### 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/ahmedyar7/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right:10px;"/>
+  <img src="https://img.shields.io/badge/LinkedIn-ahmedyar7-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right:10px;"/>
 </a>
 <a href="https://leetcode.com/u/ahmedyar7/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" style="margin-right:10px;"/>
+  <img src="https://img.shields.io/badge/LeetCode-ahmedyar7-FFA116?style=flat&logo=leetcode&logoColor=yellow" alt="LeetCode" style="margin-right:10px;"/>
 </a>
 <a href="mailto:ahmeyar.info@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin-right:10px;"/>
+  <img src="https://img.shields.io/badge/Gmail-ahmeyar.info@gmail.com-D14836?style=flat&logo=gmail&logoColor=red" alt="Gmail" style="margin-right:10px;"/>
 </a>
 <a href="https://ahmedyar.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
