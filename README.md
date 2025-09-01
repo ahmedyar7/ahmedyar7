@@ -27,7 +27,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
   <img src="https://img.shields.io/badge/LeetCode-ahmedyar7-FFA116?style=flat&logo=leetcode&logoColor=yellow" alt="LeetCode" style="margin-right:10px;"/>
 </a>
 <a href="mailto:ahmeyar.info@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ahmeyar.info@gmail.com-D14836?style=flat&logo=gmail&logoColor=red" alt="Gmail" style="margin-right:10px;"/>
+  <img src="https://img.shields.io/badge/Gmail-ahmedyar.info@gmail.com-D14836?style=flat&logo=gmail&logoColor=red" alt="Gmail" style="margin-right:10px;"/>
 </a>
 <a href="https://ahmedyar.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -69,12 +69,14 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
     <td><strong>📊 Data Science & Machine Learning</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="NumPy" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=pytorch" alt="Keras" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="Keras" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="Keras" width="40" height="40"/>
     </td>
   </tr>
   <tr>
@@ -92,7 +94,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="Linux" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
