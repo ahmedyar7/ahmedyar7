@@ -102,3 +102,5 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
     </td>
   </tr>
 </table>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ahmedyar7?theme=dark&font=Monolisa&ext=heatmap)
