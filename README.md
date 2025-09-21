@@ -18,12 +18,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 
 ---
 
----
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
---- 
 
 ### ⚙️ Tech Stack
 
