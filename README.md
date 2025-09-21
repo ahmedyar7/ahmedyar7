@@ -15,6 +15,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 🔹 **Full-Stack Development** – Building applications using **Python, C++, MySQL, Flask**, and **JavaScript**.  
 🔹 **Data Visualization & Analytics** – Creating insightful visualizations with **Matplotlib, Seaborn, and Plotly**.  
 🔹 **Automation & Scripting** – Using **Selenium & Git** for task automation and version control.
+
 ---
 
 ---
