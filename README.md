@@ -31,6 +31,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="40" height="40"/>
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Markdown" width="40" height="40"/>
     </td>
   </tr>
   <tr>
@@ -86,4 +87,3 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
   </tr>
 </table>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ahmedyar7?theme=dark&font=Monolisa&ext=heatmap)
