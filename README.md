@@ -10,11 +10,11 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
 ## 🌱 **What I’m Learning & Exploring:**
 
 🔹 **Advanced Data Structures & Algorithms** – Optimizing solutions for performance & scalability.  
-🔹 **Machine Learning & AI** – Leveraging **TensorFlow, Keras, Scikit-Learn, Pandas**, and **NumPy** for predictive modeling.  
-🔹 **Cryptography & Security** – Implementing secure protocols and encryption techniques.  
-🔹 **Full-Stack Development** – Building applications using **Python, C++, MySQL, Flask**, and **JavaScript**.  
-🔹 **Data Visualization & Analytics** – Creating insightful visualizations with **Matplotlib, Seaborn, and Plotly**.  
-🔹 **Automation & Scripting** – Using **Selenium & Git** for task automation and version control.
+🔹 **Machine Learning & AI**  Leveraging **TensorFlow, Keras, Scikit-Learn, Pandas**, and **NumPy** for predictive modeling.  
+🔹 **Cryptography & Security**  Implementing secure protocols and encryption techniques.  
+🔹 **Full-Stack Development**  Building applications using **Python, C++, MySQL, Flask**, and **JavaScript**.  
+🔹 **Data Visualization & Analytics**  Creating insightful visualizations with **Matplotlib, Seaborn, and Plotly**.  
+🔹 **Automation & Scripting**  Using **Selenium & Git** for task automation and version control.
 
 ---
 
@@ -33,11 +33,12 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="40" height="40"/>
-      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Markdown" width="40" height="40"/>
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C-Language" width="40" height="40"/>
     </td>
   </tr>
   <tr>
-    <td><strong>🌐 Web & App Developments</strong></td>
+    <td><strong>Web & App Developments</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -48,11 +49,10 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
-      <!-- Zustand not in Devicon yet -->
     </td>
   </tr>
   <tr>
-    <td><strong>📊 Data Science & Machine Learning</strong></td>
+    <td><strong>Data Science & Machine Learning</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="NumPy" width="40" height="40"/>
@@ -66,7 +66,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
     </td>
   </tr>
   <tr>
-    <td><strong>📁 Databases</strong></td>
+    <td><strong>Databases</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
@@ -76,7 +76,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
     </td>
   </tr>
   <tr>
-    <td><strong>🛠 Tools and Platforms</strong></td>
+    <td><strong>Tools and Platforms</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
