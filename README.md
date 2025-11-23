@@ -78,6 +78,7 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
   <tr>
     <td><strong>Tools and Platforms</strong></td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Git" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="Linux" width="40" height="40"/>
