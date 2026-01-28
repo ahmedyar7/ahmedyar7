@@ -1,24 +1,22 @@
 # 👋 Hi there! I'm Ahmed Yar
 
 🎓 **Computer Science Student** at **NUST**  
-💡 Passionate about **Python**, **Data Structures**, **Artificial Intelligence**, **Cryptography**, and **Software Development**
+<!-- 💡 Passionate about **Python**, **Data Structures**, **Artificial Intelligence**, **Cryptography**, and **Software Development**
 
-Welcome to my GitHub! Here, you’ll find a collection of projects and experiments as I explore the exciting world of technology. I love **solving challenging problems**, optimizing algorithms, and building **scalable** applications.
+Welcome to my GitHub! Here, you’ll find a collection of projects and experiments as I explore the exciting world of technology. I love **solving challenging problems**, optimizing algorithms, and building **scalable** applications. -->
 
 ---
 
 ## 🌱 **What I’m Learning & Exploring:**
 
-🔹 **Advanced Data Structures & Algorithms** – Optimizing solutions for performance & scalability.  
-🔹 **Machine Learning & AI**  Leveraging **TensorFlow, Keras, Scikit-Learn, Pandas**, and **NumPy** for predictive modeling.  
-🔹 **Cryptography & Security**  Implementing secure protocols and encryption techniques.  
-🔹 **Full-Stack Development**  Building applications using **Python, C++, MySQL, Flask**, and **JavaScript**.  
-🔹 **Data Visualization & Analytics**  Creating insightful visualizations with **Matplotlib, Seaborn, and Plotly**.  
-🔹 **Automation & Scripting**  Using **Selenium & Git** for task automation and version control.
+- **Compiler Construction**: Building the bridge between human-readable code and machine execution.
+- **Parallel & Distributed Computing:** Mastering concurrency and optimizing performance across distributed systems.
+- **Deep Learning**: Engineering neural architectures and exploring the frontiers of AI.
+- **Big Data Analytics:** Processing and extracting value from massive datasets at scale.
+- **Mobile App Development II:** Refining cross-platform experiences (Flutter/Dart).
+- **Software Engineering:** Applying rigorous design patterns and SDLC methodologies to complex projects.
 
 ---
-
-
 
 ### ⚙️ Tech Stack
 
@@ -90,4 +88,3 @@ Welcome to my GitHub! Here, you’ll find a collection of projects and experimen
     </td>
   </tr>
 </table>
-
