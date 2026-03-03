@@ -1,6 +1,8 @@
-# 👋 Hi there! I'm Ahmed Yar
+<h1 align="center">Ahmed Yar</h1>
+<h4 align="center">NUST'27 | Junior Year Computer Science</h3>
 
-🎓 **Computer Science Student** at **NUST**  
+
+<!-- 🎓 **Computer Science Student** at **NUST**   -->
 <!-- 💡 Passionate about **Python**, **Data Structures**, **Artificial Intelligence**, **Cryptography**, and **Software Development**
 
 Welcome to my GitHub! Here, you’ll find a collection of projects and experiments as I explore the exciting world of technology. I love **solving challenging problems**, optimizing algorithms, and building **scalable** applications. -->
