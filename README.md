@@ -1,8 +1,8 @@
 <h1 align="center">Ahmed Yar</code>
-<h4 align="center">NUST '27 | Junior Year Computer Science</h4>
+<h3 align="center">NUST '27 | Junior Year Computer Science</h3>
 
----
-
+--- 
+  
 ## 🌱 What I’m Learning & Exploring
 
 - **`Compiler Construction`**: Building the bridge between human-readable code and machine execution.
