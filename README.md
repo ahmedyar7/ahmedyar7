@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Programming Languages
+### ```Programming Languages```
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python" />
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c" />
 </p>
 
-### 🌐 Web & App Development
+### ```Web & App Development```
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5" />
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php" />
 </p>
 
-### 📊 Data Science & Machine Learning
+### ```Data Science & Machine Learning```
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
@@ -60,7 +60,7 @@
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" height="40" alt="seaborn" /> -->
 </p>
 
-### 🗄️ Databases
+### ```Databases```
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
@@ -70,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j" />
 </p>
 
-### 🛠️ Tools & Platforms
+### ```Tools & Platforms```
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git" />
