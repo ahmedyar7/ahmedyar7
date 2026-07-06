@@ -1,9 +1,15 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: 
   schedule:
-    - cron: "25 */6 * * *" # 
+    - cron: "25 */6 * * *"
+  push:
+    branches:
+      - main
+      - master 
+  watch:
+    types: [started] 
 
 jobs:
   update-readme:
@@ -12,7 +18,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - uses: athul/waka-readme@master
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
