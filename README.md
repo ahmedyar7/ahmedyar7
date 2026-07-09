@@ -32,19 +32,20 @@ Bash         20 mins               ▒░░░░░░░░░░░░░░
 
 ### ⚙️ Tech Stack
 
-- **Programming Languages:** `Python` `C++` `C` `TypeScript` `JavaScript` `Dart` `PHP` `Markdown` `Bash Scripting`
-- **Frontend & Mobile:** `HTML5` `CSS` `React` `TailwindCSS` `Flutter` `Vite`
-- **Backend & Databases:** `Node.js` `PostgreSQL` `MongoDB` `Redis` `Neo4j` `Firebase` `Express` `Qdrant` `FAISS`
-- **Data Science AI/ML :** `PyTorch` `TensorFlow` `OpenCV` `Pandas` `NumPy` `Matplotlib` `LangChain` `LangGraph`
-- **Environment/Tools:** `Linux` `Bash` `Git` `Selenium` `GitHub` `Postman`
-
-<br>
+- **Languages:** `Python` `C++` `C` `TypeScript` `JavaScript` `Dart` `PHP` `Bash`
+- **AI / ML:** `PyTorch` `TensorFlow` `OpenCV` `NumPy` `Pandas` `Matplotlib`
+- **LLM & RAG:** `LangChain` `LangGraph` `Qdrant` `FAISS`
+- **Frontend & Mobile:** `React` `TailwindCSS` `Vite` `Flutter` `HTML5` `CSS`
+- **Backend:** `FastAPI` `Node.js` `Express`
+- **Databases:** `PostgreSQL` `MongoDB` `Redis` `Neo4j` `Firebase`
+- **Tooling & DevOps:** `Git` `GitHub` `Linux` `Docker` `Postman` `Selenium`
+  <br>
 
 ---
 
 <div align="center">
   <p>
-    <a href="mailto:ahmedyar.info@gmail.com">Email Me</a> • 
+    <a href="mailto:ahmedyar.info@gmail.com">Email</a> • 
     <a href="https://linkedin.com/in/ahmedyar7">LinkedIn</a> • 
     <a href="https://medium.com/@ahmedyar7">Medium</a> • 
     <a href="https://ahmedyar.vercel.app">Portfolio</a>
