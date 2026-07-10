@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ahmed Yar</h1>
-  <p><i>Junior Year Computer Science</i></p>
+  <p><i>Senior Year Computer Science</i></p>
 </div>
 
 <details>
