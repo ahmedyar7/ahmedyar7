@@ -1,13 +1,16 @@
 <div align="center">
   <h1>Ahmed Yar</h1>
-  <p><i>Computer Science NUST '27</i></p>
+  <p><i>Junior Year Computer Science</i></p>
 </div>
 
-### 🧠 Background
+<details>
+<summary>Click here for more details</summary>
+
+## 🧠 Background
 
 I am a Computer Science student based in Quetta, Pakistan, navigating the intersection of **Artificial Intelligence** and **low-level systems**. I thrive in deep-work environments building scalable architectures, training neural networks, and exploring how code interacts with the machine at its core, and some time like to dive into the classic form of problem solving at [Leetcode](https://leetcode.com/u/ahmedyar7/) and won the Bronze Medal at Digital Pakistan Speed Programming Competition 2025 and won 3rd Position in University level Competition.
 
-### 🔭 Current Focus
+## 🔭 Current Focus
 
 Currently diving deep into the bridge between human logic and machine execution:
 
@@ -30,7 +33,7 @@ JSON         29 mins               ▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 - **Languages:** `Python` `C++` `C` `TypeScript` `JavaScript` `Dart` `PHP` `Bash`
 - **AI / ML:** `PyTorch` `TensorFlow` `OpenCV` `NumPy` `Pandas` `Matplotlib`
@@ -42,6 +45,7 @@ JSON         29 mins               ▒░░░░░░░░░░░░░░
   <br>
 
 ---
+</details>
 
 <div align="center">
   <p>
