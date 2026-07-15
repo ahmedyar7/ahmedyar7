@@ -68,8 +68,6 @@ Bash         50 mins               ▒░░░░░░░░░░░░░░
 
   <br>
 
----
-
 <div align="center">
   <p>
     <a href="mailto:ahmedyar.info@gmail.com">Email</a> • 
