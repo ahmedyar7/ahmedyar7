@@ -3,9 +3,6 @@
   <p><i>Senior Year Computer Science</i></p>
 </div>
 
-<details>
-<summary>Click here for more details</summary>
-
 ## 🧠 Background
 
 I am a Computer Science student based in Quetta, Pakistan, navigating the intersection of **Artificial Intelligence** and **low-level systems**. I thrive in deep-work environments building scalable architectures, training neural networks, and exploring how code interacts with the machine at its core, and some time like to dive into the classic form of problem solving at [Leetcode](https://leetcode.com/u/ahmedyar7/) and won the Bronze Medal at Digital Pakistan Speed Programming Competition 2025 and won 3rd Position in University level Competition.
@@ -14,7 +11,6 @@ I am a Computer Science student based in Quetta, Pakistan, navigating the inters
 
 Currently diving deep into the bridge between human logic and machine execution:
 
-- **[FloodSense-PK](https://github.com/HAMZOO0/FloodSense-PK-RealTime-Flood-Detection-Sentinel1-UNet):** Actively contributing and integrating the agentic workflows to the open source project and hopefully making it through the final rounds of the [Google Innovators Challenge](https://gdgoc-ist-innovator-challenge.netlify.app/)
 - **Systems Engineering:** Compiler Construction, Parallel & Distributed Computing
 - **Artificial Intelligence:** Deep Learning, Computer Vision, RAG architectures
 - **Data Engineering:** Big Data Analytics, Federated Learning
@@ -35,17 +31,44 @@ Bash         50 mins               ▒░░░░░░░░░░░░░░
 
 ## ⚙️ Tech Stack
 
-- **Languages:** `Python` `C++` `C` `TypeScript` `JavaScript` `Dart` `PHP` `Bash`
-- **AI / ML:** `PyTorch` `TensorFlow` `OpenCV` `NumPy` `Pandas` `Matplotlib`
-- **LLM & RAG:** `LangChain` `LangGraph` `Qdrant` `FAISS`
-- **Frontend & Mobile:** `React` `TailwindCSS` `Vite` `Flutter` `HTML5` `CSS`
-- **Backend:** `FastAPI` `Node.js` `Express`
-- **Databases:** `PostgreSQL` `MongoDB` `Redis` `Neo4j` `Firebase`
-- **Tooling & DevOps:** `Git` `GitHub` `Linux` `Docker` `Postman` `Selenium`
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>Python, C++, C, TypeScript, JavaScript, Dart, PHP, Bash</td>
+  </tr>
+  <tr>
+    <td>AI / ML</td>
+    <td>PyTorch, TensorFlow, OpenCV, NumPy, Pandas, Matplotlib</td>
+  </tr>
+  <tr>
+    <td>Agentic AI</td>
+    <td>LangChain, LangGraph, Qdrant, FAISS, LlamaIndex, IBM WatsonX</td>
+  </tr>
+  <tr>
+    <td>Frontend &amp; Mobile</td>
+    <td>React, TailwindCSS, Vite, Flutter, HTML5, CSS</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>FastAPI, Node.js, Express</td>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    <td>PostgreSQL, MongoDB, Redis, Neo4j, Firebase, SQLite</td>
+  </tr>
+  <tr>
+    <td>Tooling &amp; DevOps</td>
+    <td>Git, GitHub, Linux, Docker, Postman, Selenium</td>
+  </tr>
+</table>
+
   <br>
 
 ---
-</details>
 
 <div align="center">
   <p>
