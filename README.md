@@ -29,44 +29,46 @@ Bash                 1 hr 3 mins           ▒░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## ⚙️ Tech Stack
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td>Languages</td>
-    <td>Python, C++, C, TypeScript, JavaScript, Dart, PHP, Bash</td>
-  </tr>
-  <tr>
-    <td>AI / ML</td>
-    <td>PyTorch, TensorFlow, OpenCV, NumPy, Pandas, Matplotlib</td>
-  </tr>
-  <tr>
-    <td>Agentic AI</td>
-    <td>LangChain, LangGraph, Qdrant, FAISS, LlamaIndex, IBM WatsonX</td>
-  </tr>
-  <tr>
-    <td>Frontend &amp; Mobile</td>
-    <td>React, TailwindCSS, Vite, Flutter, HTML5, CSS</td>
-  </tr>
-  <tr>
-    <td>Backend</td>
-    <td>FastAPI, Node.js, Express</td>
-  </tr>
-  <tr>
-    <td>Databases</td>
-    <td>PostgreSQL, MongoDB, Redis, Neo4j, Firebase, SQLite</td>
-  </tr>
-  <tr>
-    <td>Tooling &amp; DevOps</td>
-    <td>Git, GitHub, Linux, Docker, Postman, Selenium</td>
-  </tr>
-</table>
 
-  <br>
+```mermaid
+---
+config:
+  theme: base
+  themeVariables:
+    fontSize: 14px
+    lineColor: '#8a5cff'
+  layout: fixed
+---
+flowchart LR
+    TS(("🛠️ Tech<br>Stack")) --> LANG["💻 Languages"] & AIML["🧠 AI / ML"] & AGENT["🤖 Agentic AI"] & FE["🎨 Frontend & Mobile"] & BE["⚙️ Backend"] & DB["🗄️ Databases"] & DEV["🚀 Tooling & DevOps"]
+    LANG --> L["Python · C++ · C · TypeScript<br>JavaScript · Dart · PHP · Bash"]
+    AIML --> M["PyTorch · TensorFlow · OpenCV<br>NumPy · Pandas · Matplotlib"]
+    AGENT --> G["LangChain · LangGraph · Qdrant<br>FAISS · LlamaIndex · IBM WatsonX"]
+    FE --> F["React · TailwindCSS · Vite<br>Flutter · HTML5 · CSS"]
+    BE --> B["FastAPI · Node.js · Express"]
+    DB --> D["PostgreSQL · MongoDB · Redis<br>Neo4j · Firebase · SQLite"]
+    DEV --> V["Git · GitHub · Linux<br>Docker · Postman · Selenium"]
+
+     TS:::root
+     LANG:::cat
+     AIML:::cat
+     AGENT:::cat
+     FE:::cat
+     BE:::cat
+     DB:::cat
+     DEV:::cat
+     L:::leaf
+     M:::leaf
+     G:::leaf
+     F:::leaf
+     B:::leaf
+     D:::leaf
+     V:::leaf
+    classDef root fill:#3b0a2a,stroke:#ff5fa2,stroke-width:2px,color:#fff
+    classDef cat fill:#2d1b4e,stroke:#8a5cff,stroke-width:1.5px,color:#fff
+    classDef leaf fill:#1e2030,stroke:#3d4160,color:#cdd6f4
+```
 
 <div align="center">
   <p>
